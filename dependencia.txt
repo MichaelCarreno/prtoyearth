@@ -1,0 +1,12 @@
+codigo de entorno:
+python3 -m venv myenv 
+
+activar codigo:
+source myenv/bin/activate
+
+dependencias:
+pandas
+openpyxl
+geopy
+simplekml
+pyqt5
